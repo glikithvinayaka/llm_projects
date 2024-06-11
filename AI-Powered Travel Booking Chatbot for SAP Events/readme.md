@@ -43,7 +43,7 @@ This project is an offline coding challenge that tasks with creating a chat inte
    pip install streamlit openai pandas
    ```
 2. Set up the OpenAI API key:
-   - openai.api_key = `'sk-proj-sH2dYuFUic0wA7uLUH91T3BlbkFJUemP5XpWqOPGGRxqpf0d'`
+   - openai.api_key = `'****************************************'`
 
 ## Running the Application
 1. Navigate to the project directory.
